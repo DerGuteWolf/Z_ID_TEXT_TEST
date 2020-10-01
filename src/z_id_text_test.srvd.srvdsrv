@@ -1,0 +1,5 @@
+@EndUserText.label: 'Z_ID_TEXT_TEST'
+define service Z_ID_TEXT_TEST {
+  expose Z_ID_TEXT_TEST_View;
+  expose Z_ID_TEXT_TEST_ViewText;
+}
